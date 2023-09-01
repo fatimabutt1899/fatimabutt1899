@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fatimabutt1899
 - 👀 I’m interested in Devops Engineering
 - 🌱 I’m currently learning more about the field
-- 💞️ I’m looking to collaborate on open source Projects 
+- 💞️ I’m looking to collaborate on Projects 
 - 📫 How to reach me fatimabutt18899@gmail.com
 
 <!---
