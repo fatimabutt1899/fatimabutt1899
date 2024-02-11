@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @fatimabutt1899
-- 👀 I’m interested in Devops Engineering
+- 👀 I’m interested in DevOps Engineer
 - 🌱 I’m currently learning more about the field
 - 💞️ I’m looking to collaborate on Projects 
 - 📫 How to reach me fatimabutt18899@gmail.com
+      - https://www.linkedin.com/in/fatima-butt-907341212/
 
 <!---
 fatimabutt1899/fatimabutt1899 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
