@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fatimabutt1899
+- 👋 Hi, I’m Fatima Butt
 - 👀 I’m interested in DevOps Engineer
 - 🌱 I’m currently learning more about the field
 - 💞️ I’m looking to collaborate on Projects 
