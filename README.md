@@ -2,7 +2,7 @@
 - 👀 I’m interested in DevOps Engineer
 - 🌱 I’m currently learning more about the field
 - 💞️ I’m looking to collaborate on Projects 
-- 📫 How to reach me fatimabutt11899@gmail.com
+- 📫 How to reach me:
       - https://www.linkedin.com/in/fatima-butt-907341212/
 
 <!---
