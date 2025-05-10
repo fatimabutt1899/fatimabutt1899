@@ -43,19 +43,6 @@ I’m a **DevOps Engineer** passionate about automating processes, optimizing pe
 
 ---
 
-### 🌟 Projects
-Check out some of my notable projects:
-
-1. **[Project One](https://github.com/fatimabutt1899/project-one)**  
-   Description: A brief project overview explaining functionality and use cases.
-
-2. **[Project Two](https://github.com/fatimabutt1899/project-two)**  
-   Description: A brief project overview explaining functionality and use cases.
-
-3. **[Project Three](https://github.com/fatimabutt1899/project-three)**  
-   Description: A brief project overview explaining functionality and use cases.
-
----
 
 ### 📈 GitHub Stats
 ![Fatima's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fatimabutt1899&show_icons=true&hide_title=true&count_private=true&theme=radical)
@@ -63,14 +50,12 @@ Check out some of my notable projects:
 ---
 
 ### ✉️ Get in Touch
-<a href="https://twitter.com/your_twitter_handle" rel="nofollow">
-    <img src="https://example.com/path_to_your_twitter_icon.png" style="max-width: 30px; margin: 5px;">
-</a>
-<a href="https://www.linkedin.com/in/fatimabutt/" rel="nofollow">
-    <img src="https://example.com/path_to_your_linkedin_icon.png" style="max-width: 30px; margin: 5px;">
+
+<a href="https://www.linkedin.com/in/fatimabutt11899/" rel="nofollow">
+    <img src="https://github.com/fatimabutt1899/fatimabutt1899/blob/main/Content/linkedin.svg" style="width: 30px; margin: 5px;">
 </a>
 <a href="https://www.upwork.com/freelancers/~011fd3a9ae7016e036?mp_source=share" rel="nofollow">
-    <img src="https://example.com/path_to_your_upwork_icon.png" style="max-width: 30px; margin: 5px;">
+    <img src="https://github.com/fatimabutt1899/fatimabutt1899/blob/main/Content/upwork.svg" style="width: 30px; margin: 5px;">
 </a>
 
 ---
