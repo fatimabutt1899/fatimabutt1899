@@ -1,30 +1,79 @@
 # 👋 Hi there, I'm Fatima Butt!
 
-### DevOps Engineer | Cloud Enthusiast | Continuous Integration/Continuous Deployment Advocate
-
+[![GitHub Follow](https://img.shields.io/github/followers/fatimabutt1899?style=social)](https://github.com/fatimabutt1899)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Fatima_Butt-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/fatimabutt/)
 [![Upwork](https://img.shields.io/badge/Upwork-Fatima_Butt-orange?style=flat-square&logo=upwork)](https://www.upwork.com/freelancers/~011fd3a9ae7016e036?mp_source=share)
 [![GitHub](https://img.shields.io/badge/GitHub-Fatima_Butt-black?style=flat-square&logo=github)](https://github.com/fatimabutt1899)
 
 ---
 
-## 🚀 About Me
-I'm a dedicated DevOps Engineer with a passion for automating processes and improving deployment efficiency. My goal is to bridge the gap between development and operations, allowing teams to deliver high-quality applications faster and more reliably.
-
-## 💻 Skills
-- **Cloud Platforms:** AWS, Azure, Google Cloud
-- **Containerization:** Docker, Kubernetes
-- **CI/CD Tools:** Jenkins, GitHub Actions, Travis CI
-- **Configuration Management:** Ansible, Terraform
-- **Scripting Languages:** Bash, Python
-- **Monitoring Tools:** Prometheus, Grafana, ELK stack
-
-## 📫 How to reach me
-- **Email:** [fatimabutt@example.com](mailto:fatimabutt@example.com)
-- **LinkedIn:** [Fatima Butt](https://www.linkedin.com/in/fatimabutt/)
-- **Upwork:** [Fatima Butt](https://www.upwork.com/freelancers/~011fd3a9ae7016e036?mp_source=share)
+### 👨‍💻 About Me
+I’m a **DevOps Engineer** passionate about automating processes, optimizing performance, and delivering reliable software solutions. With a strong focus on CI/CD pipelines and cloud infrastructure, I thrive on improving development processes to enhance collaboration between development and operations teams.
 
 ---
 
-## 🌟 Let's Connect!
-I love collaborating on new projects and exploring innovative solutions to technical challenges. Feel free to reach out if you would like to discuss ideas or if you have a project in mind!
+### 🛠️ Tech Stack
+#### Cloud Providers
+- AWS
+- Azure
+- Google Cloud
+
+#### Containerization & Orchestration
+- Docker
+- Kubernetes
+
+#### CI/CD Tools
+- Jenkins
+- GitHub Actions
+- Travis CI
+
+#### Configuration Management
+- Ansible
+- Terraform
+
+#### Languages
+- Bash
+- Python
+- Go
+
+#### Monitoring & Logging
+- Prometheus
+- Grafana
+- ELK Stack
+
+---
+
+### 🌟 Projects
+Check out some of my notable projects:
+
+1. **[Project One](https://github.com/fatimabutt1899/project-one)**  
+   Description: A brief project overview explaining functionality and use cases.
+
+2. **[Project Two](https://github.com/fatimabutt1899/project-two)**  
+   Description: A brief project overview explaining functionality and use cases.
+
+3. **[Project Three](https://github.com/fatimabutt1899/project-three)**  
+   Description: A brief project overview explaining functionality and use cases.
+
+---
+
+### 📈 GitHub Stats
+![Fatima's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fatimabutt1899&show_icons=true&hide_title=true&count_private=true&theme=radical)
+
+---
+
+### ✉️ Get in Touch
+<a href="https://twitter.com/your_twitter_handle" rel="nofollow">
+    <img src="https://example.com/path_to_your_twitter_icon.png" style="max-width: 30px; margin: 5px;">
+</a>
+<a href="https://www.linkedin.com/in/fatimabutt/" rel="nofollow">
+    <img src="https://example.com/path_to_your_linkedin_icon.png" style="max-width: 30px; margin: 5px;">
+</a>
+<a href="https://www.upwork.com/freelancers/~011fd3a9ae7016e036?mp_source=share" rel="nofollow">
+    <img src="https://example.com/path_to_your_upwork_icon.png" style="max-width: 30px; margin: 5px;">
+</a>
+
+---
+
+### ⭐️ Let’s Connect!
+I’m always interested in collaborating on exciting projects or simply discussing the latest trends in DevOps and software development. Feel free to reach out!
