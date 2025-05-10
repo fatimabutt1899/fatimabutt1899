@@ -37,12 +37,6 @@ I’m a **DevOps Engineer** passionate about automating processes, optimizing pe
 
 ---
 
-
-### 📈 GitHub Stats
-
-
----
-
 ### ⭐️ Get in Touch
 
 <a href="https://www.linkedin.com/in/fatimabutt11899/" rel="nofollow">
