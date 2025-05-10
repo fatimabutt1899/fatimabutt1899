@@ -19,21 +19,6 @@ I'm a dedicated DevOps Engineer with a passion for automating processes and impr
 - **Scripting Languages:** Bash, Python
 - **Monitoring Tools:** Prometheus, Grafana, ELK stack
 
-## 🛠️ Projects
-Here is a selection of notable projects I've worked on:
-
-### 1. [Project Name](https://github.com/fatimabutt1899/project-name)
-- **Description:** Brief description of the project.
-- **Technologies:** Tech stack used.
-
-### 2. [Project Name](https://github.com/fatimabutt1899/project-name)
-- **Description:** Brief description of the project.
-- **Technologies:** Tech stack used.
-
-### 3. [Project Name](https://github.com/fatimabutt1899/project-name)
-- **Description:** Brief description of the project.
-- **Technologies:** Tech stack used.
-
 ## 📫 How to reach me
 - **Email:** [fatimabutt@example.com](mailto:fatimabutt@example.com)
 - **LinkedIn:** [Fatima Butt](https://www.linkedin.com/in/fatimabutt/)
