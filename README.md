@@ -2,7 +2,7 @@
 
 ### DevOps Engineer | Cloud Enthusiast | Continuous Integration/Continuous Deployment Advocate
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fatima_Butt-blue?style=flat-square&logo=linkedin)(https://www.linkedin.com/in/fatimabutt/)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fatima_Butt-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/fatimabutt/)
 [![Upwork](https://img.shields.io/badge/Upwork-Fatima_Butt-orange?style=flat-square&logo=upwork)](https://www.upwork.com/freelancers/~011fd3a9ae7016e036?mp_source=share)
 [![GitHub](https://img.shields.io/badge/GitHub-Fatima_Butt-black?style=flat-square&logo=github)](https://github.com/fatimabutt1899)
 
