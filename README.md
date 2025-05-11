@@ -8,10 +8,18 @@
   ♾️ DevOps-ing since 2022<br>
   💻 Currently working from home 🏡 <br>
   🎮 Gaming Valorant🗡 &  Minecraft ⛏️
-   
----
+
+  <div align=center>
+   <img src="https://komarev.com/ghpvc/?username=fatimabutt1899&style=plastic&color=orange" alt="profile-views"/> 
+   <img alt="GitHub followers" src="https://img.shields.io/github/followers/fatimabutt1899?style=plastic&color=orange">
+
+
+
+  </div>
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Chewy&size=43&pause=1000&color=BD5E29&center=true&vCenter=true&width=435&lines=DevOps+Engineer;Code%2C+deploy%2C+repeat!;Automation+expert;Simplifying+complexity!)](https://git.io/typing-svg)
+
 
 ### 🛠️ Tech Stack
 #### Cloud Providers
