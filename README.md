@@ -1,7 +1,7 @@
 <div align="center">
  
  <img src="https://raw.githubusercontent.com/fatimabutt1899/fatimabutt1899/refs/heads/main/Content/fox%20waving.webp" ><br>
- # Hi there, I'm Fatima Butt
+ # Hi there, I'm Fatima
  
   <div align=center>
    <img src="https://komarev.com/ghpvc/?username=fatimabutt1899&style=plastic&color=orange" alt="profile-views"/> 
