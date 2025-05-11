@@ -1,9 +1,10 @@
-# 👋 Hi there, I'm Fatima Butt!
-
+# 👋 Hi there
 
 ### 👨‍💻 About Me
-I’m a **DevOps Engineer** passionate about automating processes, optimizing performance, and delivering reliable software solutions. With a strong focus on CI/CD pipelines and cloud infrastructure, I thrive on improving development processes to enhance collaboration between development and operations teams.
 
+ - ♾️ DevOps-ing since 2022<br>
+ - 💻 Currently working from home 🏡 <br>
+ - 🎮 Gaming Valorant🗡 &  Minecraft ⛏️
 ---
 
 ### 🛠️ Tech Stack
