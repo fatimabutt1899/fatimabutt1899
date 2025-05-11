@@ -11,9 +11,7 @@
    
 ---
 
-<div align=center>
-   <img src="https://github.com/fatimabutt1899/fatimabutt1899/blob/main/Content/devops-gif.svg" alt="Headline" />
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Chewy&size=43&pause=1000&color=BD5E29&center=true&vCenter=true&width=435&lines=DevOps+Engineer;Code%2C+deploy%2C+repeat!;Automation+expert;Simplifying+complexity!)](https://git.io/typing-svg)
 
 ### 🛠️ Tech Stack
 #### Cloud Providers
