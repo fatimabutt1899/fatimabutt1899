@@ -19,7 +19,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Chewy&size=43&pause=1000&color=BD5E29&center=true&vCenter=true&width=435&lines=DevOps+Engineer;Code%2C+deploy%2C+repeat!;Automation+expert;Simplifying+complexity!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Chewy&size=43&pause=1000&color=BD5E29&center=true&vCenter=true&width=435&lines=DevOps+Engineer;Code%2C+Deploy%2C+Repeat!;Automation+Expert;Simplifying+Complexities!)](https://git.io/typing-svg)
 
 
 ### 🛠️ Tech Stack
