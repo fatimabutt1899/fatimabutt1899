@@ -11,7 +11,7 @@
 ### 👨‍💻 About Me
 
   ♾️ DevOps-ing since 2022<br>
-  🔨 Building Infrastructure 🏗️ Solutions<br>
+  🔨 Building Infrastructure Solutions 🏗️<br>
   ✍ Designing Robust 🔧 Pipelines <br>
   💻 Currently Working from Home 🏡 <br>
   
