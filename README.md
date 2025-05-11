@@ -11,7 +11,9 @@
    
 ---
 
-
+<div align=center>
+   <img src="https://github.com/fatimabutt1899/fatimabutt1899/blob/main/Content/devops-gif.svg" alt="Headline" />
+</div>
 
 ### 🛠️ Tech Stack
 #### Cloud Providers
