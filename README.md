@@ -4,8 +4,8 @@
  # Hi there, I'm $${\color{#fe863d}Fatima}$$
  
   <div align=center>
-   <img src="https://komarev.com/ghpvc/?username=fatimabutt1899&style=plastic&color=#fe863d" alt="profile-views"/> 
-   <img alt="GitHub followers" src="https://img.shields.io/github/followers/fatimabutt1899?style=plastic&color=#fe863d">
+   <img src="https://komarev.com/ghpvc/?username=fatimabutt1899&style=plastic&color=fe863d" alt="profile-views"/> 
+   <img alt="GitHub followers" src="https://img.shields.io/github/followers/fatimabutt1899?style=plastic&color=fe863d">
   </div>
   
 ### 👨‍💻 About Me
