@@ -1,11 +1,11 @@
 <div align="center">
  
  <img src="https://raw.githubusercontent.com/fatimabutt1899/fatimabutt1899/refs/heads/main/Content/fox%20waving.webp" ><br>
- # Hi there, I'm $${\color{orange}Fatima}$$
+ # Hi there, I'm $${\color{#fe863d}Fatima}$$
  
   <div align=center>
-   <img src="https://komarev.com/ghpvc/?username=fatimabutt1899&style=plastic&color=orange" alt="profile-views"/> 
-   <img alt="GitHub followers" src="https://img.shields.io/github/followers/fatimabutt1899?style=plastic&color=orange">
+   <img src="https://komarev.com/ghpvc/?username=fatimabutt1899&style=plastic&color=#fe863d" alt="profile-views"/> 
+   <img alt="GitHub followers" src="https://img.shields.io/github/followers/fatimabutt1899?style=plastic&color=#fe863d">
   </div>
   
 ### 👨‍💻 About Me
