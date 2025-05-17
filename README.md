@@ -1,6 +1,6 @@
 <div align="center">
  
- <img src="https://github.com/fatimabutt1899/fatimabutt1899/blob/main/Content/foxiirabbit.gif" ><br>
+ <img src="https://raw.githubusercontent.com/fatimabutt1899/fatimabutt1899/refs/heads/main/Content/fox%20waving.webp" ><br>
  # Hi there, I'm $${\color{#fe863d}Fatima}$$
  
   <div align=center>
