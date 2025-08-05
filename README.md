@@ -32,6 +32,9 @@ Docker | Kubernetes
 #### Configuration Management
 Ansible | Terraform
 
+#### Monitoring & Logging
+Grafana | Loki | Prometheus
+
 ---
 
 ### ⭐️ Get in Touch ⭐️
