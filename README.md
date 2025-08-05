@@ -24,7 +24,7 @@
 
 ### 🛠️ Tech Stack 🛠️
 #### Cloud Providers
-AWS | Azure | Google Cloud
+AWS | Azure | Google Cloud | Alibaba
 
 #### Containerization & Orchestration
 Docker | Kubernetes
@@ -41,6 +41,9 @@ Ansible | Terraform
 </a>
 <a href="https://www.upwork.com/freelancers/~011fd3a9ae7016e036?mp_source=share" rel="nofollow">
     <img src="https://github.com/fatimabutt1899/fatimabutt1899/blob/main/Content/upwork.svg" style="width: 30px; ">
+</a>
+<a href="https://www.fiverr.com/fatimabutt11899?public_mode=true" rel="nofollow">
+    <img src="https://github.com/fatimabutt1899/fatimabutt1899/blob/main/Content/fiverr.png" style="width: 30px; ">
 </a>
 <a href="mailto:fatimabutt11899@gmail.com" rel="nofollow">
     <img src="https://github.com/fatimabutt1899/fatimabutt1899/blob/main/Content/email.svg" style="width: 30px;">
